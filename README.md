@@ -15,4 +15,4 @@ The training for mastering Markdown.
 - [Tables](advanced/Tables.md)
 - [SyntaxHighlighting](advanced/Highlighting.md)
 ## Image
-![png](./src/markdown.png)
+![png](./src/markdown.png width="200")
