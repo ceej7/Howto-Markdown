@@ -14,5 +14,5 @@ The training for mastering Markdown.
 ## Advanced writing and formatting
 - [Tables](advanced/Tables.md)
 - [SyntaxHighlighting](advanced/Highlighting.md)
-## Pic
+## Image
 ![png](./src/markdown.png)
