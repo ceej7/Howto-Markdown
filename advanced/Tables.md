@@ -12,6 +12,7 @@
     | Content Cell  | Content Cell  |
     ```
 - Go
+
     | First Header  | Second Header |
     | ------------- | ------------- |
     | Content Cell  | Content Cell  |
@@ -24,6 +25,7 @@
     | git diff | Show file differences that haven't been staged |
     ```
 - Go
+
     | Command | Description |
     | --- | --- |
     | git status | List all new or modified files |
@@ -39,6 +41,7 @@
     | git diff     | git diff       | git diff      |
     ```
 - Go
+
     | Left-aligned | Center-aligned | Right-aligned |
     | :---         |     :---:      |          ---: |
     | git status   | git status     | git status    |
